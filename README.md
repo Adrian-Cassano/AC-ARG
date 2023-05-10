@@ -23,7 +23,7 @@ Developer :heart: from Argentina to :earth_americas:
 
 ## FullTask APP: 
 ### FullTask es una pagina donde podes manejar tus tareas diarias asi poder organizar tus objetivos
-##### Features:  Formularios / Modal / Calnedario / Redux persist / capacidad de guardar y administras tareas / Poder mover las tareas / Posibilidad de eliminar tu perfil / capacidad de editar las tareas.
+##### Features:  Formularios / Modal / Calendario / Redux persist / capacidad de guardar y administras tareas / capacidad de organizar las tareas / Posibilidad de eliminar tu perfil / capacidad de editar las tareas / capacidad de organizar las tareas.
  
 <p align="center">
     <img src="./Img/landing.jpg" width="2000" height="600" align="center"/>
@@ -40,11 +40,12 @@ Developer :heart: from Argentina to :earth_americas:
 ##### Features: Catalogo / Paginación / Formularios / Detalle de Producto / Busqueda / Filtrado / Ordenamiento / Consume API / Creacion de nuevas cartas
 <p align="center">
     <img src="./Img/DogsLanding.jpg" width="2000" height="600" align="center"/>
-    <img src="./Img/DogsHome.jpg" width="2000" height="80" align="center"/>
+    <img src="./Img/DogsHome.jpg" width="2000" height="600" align="center"/>
     <img src="./Img/DogsCreateCard.jpg" width="2000" height="600" align="center"/>
+    <img src="./Img/FichaDeDogs.jpg" width="2000" height="600" align="center"/>
 </p>  
 
-#### Puedes verlo haciendo Click [Aqui](https://github.com/MB-ARG/PI_Dogs-FT13)
+<!-- #### Puedes verlo haciendo Click [Aqui](https://github.com/MB-ARG/PI_Dogs-FT13) -->
 
 <img src="https://farmacosalud.com/wp-content/uploads/2015/10/separador-1.png" width="2000" height="60" align="center"/>
 
