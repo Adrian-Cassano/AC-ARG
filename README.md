@@ -53,7 +53,7 @@ Developer :heart: from Argentina to :earth_americas:
     <img src="./Img/FichaDeDogs.jpg" width="2000" height="600" align="center"/>
 </p>
 
-#### Puedes verlo haciendo Click [Aqui](https://apid-dogs.netlify.app/) 
+ 
 
 <img src="https://farmacosalud.com/wp-content/uploads/2015/10/separador-1.png" width="2000" height="60" align="center"/>
 
